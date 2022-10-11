@@ -3,7 +3,7 @@
 
 /**
  * main - check the code for Holberton School
- * students
+ * students.
  *
  * Return: Always 0.
  */
